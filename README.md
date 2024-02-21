@@ -1,2 +1,2 @@
 # DonorAssignment
-Bram's Code for donor assignment
+Old Donor assignment repo, don't use!! ParallelDonorAssignment repo is forked from this one, and is the up-to-date version. 
